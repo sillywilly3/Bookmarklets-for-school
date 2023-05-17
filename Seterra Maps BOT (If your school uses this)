@@ -1,0 +1,1 @@
+javascript:for (i=0;i++<questionCount;)checkQuestion(document.querySelector('g[data-qText="'+document.getElementById('currQuestion').innerHTML.substring(12)+'"]'),{})
